@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#build Directories
+build-ImageFilter-Desktop_Qt_5_8_0_MinGW_32bit-Debug
+ThirdParty/opencv/include/
