@@ -1,5 +1,5 @@
-#ifndef IMAGE_FILTER_BASE_H
-#define IMAGE_FILTER_BASE_H
+#ifndef IMAGE_FILTER_CONVERT_H
+#define IMAGE_FILTER_CONVERT_H
 
 #include <QImage>
 #include <opencv/cv.h>
